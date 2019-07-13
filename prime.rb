@@ -15,7 +15,7 @@ def prime?(num)
         false
       else
         i += 6
-        puts i 
+        puts i
       end
     end
   end
