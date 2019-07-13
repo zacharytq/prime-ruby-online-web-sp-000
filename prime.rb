@@ -13,7 +13,7 @@ def prime?(num)
 
   while i * i <= num
     if num % i == 0
-      false
+      return false
     else
       i += 6
       puts i
