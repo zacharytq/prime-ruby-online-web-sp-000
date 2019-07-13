@@ -18,7 +18,6 @@ def prime?(num)
         puts i 
       end
     end
-    true
   end
 end
 
