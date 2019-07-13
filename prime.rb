@@ -21,5 +21,3 @@ def prime?(num)
   end
   true
 end
-
-
