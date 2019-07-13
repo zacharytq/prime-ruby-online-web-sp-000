@@ -22,4 +22,4 @@ def prime?(num)
   true
 end
 
-binding.pry
+
