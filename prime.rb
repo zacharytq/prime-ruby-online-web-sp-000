@@ -7,14 +7,12 @@ def prime?(num)
     false
   else
     i = 5
-    w = 2
 
     while i * i <= num
       if num % i == 0
         false
       else
-        i += w
-        w = 6 - w
+        i += 6
       end
     end
     true
